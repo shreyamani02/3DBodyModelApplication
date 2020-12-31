@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c91875dbc13464057af70563a859b31a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pcaDataAsset: {fileID: 4900000, guid: c35c203213bb3084cb6e30b0e1ce622c, type: 3}
+  - meanDataAsset: {fileID: 4900000, guid: fc5f7e9b3ce6c45458588bf181492bfd, type: 3}
+  - sliderBMI: {instanceID: 0}
+  - sliderStature: {instanceID: 0}
+  - sliderAge: {instanceID: 0}
+  - lbBMI: {instanceID: 0}
+  - lbStature: {instanceID: 0}
+  - lbAge: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
